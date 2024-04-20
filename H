@@ -1,7 +1,0 @@
-class Hello
-{
-  public static void min(String args[])
-  {
-    System.out.println("Hello welcome to java");
-  }
-}
